@@ -45,13 +45,26 @@
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 | Google Chrome | 220 | 1878 | 282 | 1852 | 1058 |
 | Mozilla Firefox | 147 | 1033 | 255 | 1491 | 731 |
+| Edge |  |  |  |  |  |
 
-### Форки Chromium
+### Форки Chromium(Blink)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| Atom |  |  |  |  |  |
+| Arc |  |  |  |  |  |
 | Brave |  |  |  |  |  |
+| Cent |  |  |  |  |  |
+| Min |  |  |  |  |  |
+| Opera |  |  |  |  |  |
+| Opera GX |  |  |  |  |  |
 | Thorium |  |  |  |  |  |
-### Форки Quantum
+| Ungoogled Chromium |  |  |  |  |  |
+| Vivaldi |  |  |  |  |  |
+| Яндекс Браузер |  |  |  |  |  |
+| Яндекс Браузер для геймеров |  |  |  |  |  |
+| Яндекс Браузер для организаций |  |  |  |  |  |
+
+### Форки Quantum(Gecko)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 | Floorp |  |  |  |  |  |
