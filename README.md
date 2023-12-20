@@ -14,3 +14,4 @@
 - AMD Ryzen 7 3700X
 - Nvidia RTX 2060 Super
 - 32GB RAM, 3333MHz
+- 1440p 144hz
