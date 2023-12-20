@@ -33,4 +33,13 @@
 - [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)
 - [Basemark Web 3.0 (Без проверки на совместимость с HTML5 и CSS)](https://web.basemark.com/)
 
+## Информация
+Тест Basemark Web 3.0 проводится без проверки на поддержку функций HTML5, CSS. Тесты HTML5Test и WebXPRT 3 отсутвуют по причине того, что они направлены на проверку HTML5 и CSS.
+
 ## Результаты
+[Полная таблица с результатами](https://github.com/xtcorp/browser-benchmark-results/releases/latest)
+### Основные браузеры
+| Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
+|          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| Google Chrome | 220 | 1878 | 282 | 1852 | 1058 |
+| Mozilla Firefox | 147 | 1033 | 255 | 1491 | 731 |
