@@ -38,8 +38,6 @@
 
 ## Результаты
 
-[Полная таблица с результатами](https://github.com/xtcorp/browser-benchmark-results/releases/latest)
-
 ### Основные браузеры
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
