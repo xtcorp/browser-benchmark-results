@@ -48,14 +48,18 @@
 ### Форки Chromium(Blink)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| 360 Extreme Explorer |  |  |  |  |  |
 | Atom |  |  |  |  |  |
 | Arc |  |  |  |  |  |
 | Brave | **221** | 1295 | 270 | 1983 | 942 |
 | Cent |  |  |  |  |  |
+| K-Meleon |  |  |  |  |  |
+| Maxthon |  |  |  |  |  |
 | Min |  |  |  |  |  |
 | Opera |  |  |  |  |  |
 | Opera GX |  |  |  |  |  |
-| Thorium |  |  |  |  |  |
+| Thorium AVX2 |  |  |  |  |  |
+| Tor |  |  |  |  |  |
 | Ungoogled Chromium |  |  |  |  |  |
 | Vivaldi |  |  |  |  |  |
 | Яндекс Браузер | 210 | 1744 | 275 | **2056** | 1071 |
