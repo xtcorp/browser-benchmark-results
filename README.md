@@ -37,9 +37,37 @@
 Тест Basemark Web 3.0 проводится без проверки на поддержку функций HTML5, CSS. Тесты HTML5Test и WebXPRT 3 отсутвуют по причине того, что они направлены на проверку HTML5 и CSS.
 
 ## Результаты
+
 [Полная таблица с результатами](https://github.com/xtcorp/browser-benchmark-results/releases/latest)
+
 ### Основные браузеры
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 | Google Chrome | 220 | 1878 | 282 | 1852 | 1058 |
 | Mozilla Firefox | 147 | 1033 | 255 | 1491 | 731 |
+| Edge |  |  |  |  |  |
+
+### Форки Chromium(Blink)
+| Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
+|          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| Atom |  |  |  |  |  |
+| Arc |  |  |  |  |  |
+| Brave |  |  |  |  |  |
+| Cent |  |  |  |  |  |
+| Min |  |  |  |  |  |
+| Opera |  |  |  |  |  |
+| Opera GX |  |  |  |  |  |
+| Thorium |  |  |  |  |  |
+| Ungoogled Chromium |  |  |  |  |  |
+| Vivaldi |  |  |  |  |  |
+| Яндекс Браузер |  |  |  |  |  |
+| Яндекс Браузер для геймеров |  |  |  |  |  |
+| Яндекс Браузер для организаций |  |  |  |  |  |
+
+### Форки Quantum(Gecko)
+| Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
+|          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| Floorp |  |  |  |  |  |
+| Mercury |  |  |  |  |  |
+
+```Тестирование и поиск новых браузеров в процессе```
