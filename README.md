@@ -41,16 +41,16 @@
 ### Основные браузеры
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| Google Chrome | 220 | 1878 | 282 | 1852 | 1058 |
+| Google Chrome | **220** | **1878** | **282** | 1852 | 1058 |
 | Mozilla Firefox | 147 | 1033 | 255 | 1491 | 731 |
-| Edge |  |  |  |  |  |
+| Edge | **220** | 1807 | 270 | **2043** |  |
 
 ### Форки Chromium(Blink)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
 | Atom |  |  |  |  |  |
 | Arc |  |  |  |  |  |
-| Brave |  |  |  |  |  |
+| Brave | 221 |  |  |  |  |
 | Cent |  |  |  |  |  |
 | Min |  |  |  |  |  |
 | Opera |  |  |  |  |  |
@@ -65,7 +65,7 @@
 ### Форки Quantum(Gecko)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| Floorp |  |  |  |  |  |
-| Mercury |  |  |  |  |  |
+| Floorp | 131 | 860 | 215 | 1465 |  |
+| Mercury | 130 | 891 | 215 | 1447 |  |
 
 ```Тестирование и поиск новых браузеров в процессе```
