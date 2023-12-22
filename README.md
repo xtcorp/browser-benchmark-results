@@ -43,6 +43,9 @@
 ## Результаты
 > Больше = лучше. Чем производительнее, тем быстрее отрисуется страница, загрузятся скрипты и плавнее будут анимации
 
+[Результаты в виде Excel таблицы](https://github.com/xtcorp/browser-benchmark-results/blob/c4a3f871db1915afd184928670f1b98116f28a7b/files/browser-benchmark-results.xlsx)
+[Скриншоты результатов](https://github.com/xtcorp/browser-benchmark-results/tree/c4a3f871db1915afd184928670f1b98116f28a7b/images/Browser%20Benchmark%20Results)
+
 
 ### Основные браузеры
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
