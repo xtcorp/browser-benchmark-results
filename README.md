@@ -88,7 +88,7 @@
 
 
 ## Клейминги компаний
-### Atom
+### Mail.ru - Atom
 Дорогие Mail.ru, Команда Atom, VK и VK Testers, на [главной странице браузера Atom](https://browser.ru/) указана информация о производительности(JetStream) и работе с графикой(MotionMark 1.2) по результатам [исследования компанией VK в апреле 2022 года](https://browser.ru/benchmark/atom.pdf)
 
 ![Atom VK benchmark results](https://github.com/xtcorp/browser-benchmark-results/blob/main/images/Atom_VK_benchmark_results.png)
