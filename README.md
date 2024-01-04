@@ -14,6 +14,7 @@
 - Отключены фоновые программы
 - Отключён спящий режим у монитора и ПК
 - Отключены прокси и VPN
+- Стандартные DNS, полученные от провайдера (т.е. не изменённые из под Windows)
 - Браузер тестируется "из коробки", на стандартных настройках
 - Браузер обновлён в дату тестирования
 - Нету расширений
@@ -29,7 +30,7 @@
 - 32GB RAM, 3333MHz
 - Samsung 970 EVO Plus
 - 2560x1440 144hz
-- 350Мбит, проводной интернет
+- 350Мбит, проводной интернет, [результаты Speedtest](https://github.com/xtcorp/browser-benchmark-results/blob/main/images/Speedtest.png)
 
 ## Тесты
 - [JetStream 2.1](https://browserbench.org/JetStream/)
@@ -67,7 +68,7 @@
 | Opera |  |  |  |  |  |
 | Opera GX |  |  |  |  |  |
 | Thorium AVX2 |  |  |  |  |  |
-| Ungoogled Chromium |  |  |  |  |  |
+| Ungoogled Chromium | 210 | 1379 | 198 | 1760 | 886 |
 | Vivaldi |  |  |  |  |  |
 | Яндекс Браузер | 210 | 1744 | 275 | **2056** | 1071 |
 | Яндекс Браузер для геймеров | 186 | 1656 | 267 | 2050 | 1039 |
@@ -87,6 +88,7 @@
 | Atom | 26.0.0.21 (Official Build) (64-bit) |
 | Google Chrome | 120.0.6099.130 (Официальная сборка), (64 бит) |
 | Mozilla Firefox | 121.0 (64-bit) |
+| Ungoogled Chromium | 120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit) |
 | Яндекс Браузер | 23.11.2.771 (64-bit) |
 
 
