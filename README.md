@@ -102,6 +102,7 @@
 | Atom | 26.0.0.21 (Official Build) (64-bit) |
 | Google Chrome | 120.0.6099.130 (Официальная сборка), (64 бит) |
 | Mozilla Firefox | 121.0 (64-bit) |
+| Thorium AVX2 | 117.0.5938.157 (Official Build) (64-bit) |
 | Ungoogled Chromium | 120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit) |
 | Яндекс Браузер | 23.11.2.771 (64-bit) |
 
