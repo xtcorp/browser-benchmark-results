@@ -51,9 +51,9 @@
 ### Основные браузеры
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| Google Chrome | 220 | **1878** | **282** | 1852 | 1058 |
+| Google Chrome | 220 | 1878 | **282** | 1852 | 1058 |
 | Mozilla Firefox | 147 | 1033 | 255 | 1491 | 731 |
-| Edge | 220 | 1807 | 270 | 2043 | **1085** |
+| Edge | 220 | 1807 | 270 | 2043 | 1085 |
 
 ### Форки Chromium(Blink)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
@@ -61,13 +61,13 @@
 | 360 Extreme Explorer |  |  |  |  |  |
 | Atom | 189 | 1409 | 223 | 1630 | 862 |
 | Arc |  |  |  |  |  |
-| Brave | **221** | 1295 | 270 | 1983 | 942 |
+| Brave | 221 | 1295 | 270 | 1983 | 942 |
 | Cent |  |  |  |  |  |
 | Maxthon |  |  |  |  |  |
 | Min | 207 | 1493 | 206 | 1493 | 849 |
 | Opera |  |  |  |  |  |
 | Opera GX |  |  |  |  |  |
-| Thorium AVX2 |  |  |  |  |  |
+| Thorium AVX2 | **226** | **2079** | 273 | 2049 | **1156** |
 | Ungoogled Chromium | 210 | 1379 | 198 | 1760 | 886 |
 | Vivaldi |  |  |  |  |  |
 | Яндекс Браузер | 210 | 1744 | 275 | **2056** | 1071 |
@@ -83,17 +83,18 @@
 | Tor |  |  |  |  |  |
 
 ### Топ браузеров по среднему значению
-1. Edge
-2. Яндекс Браузер
-3. Google Chrome
-4. Яндекс Браузер для геймеров
-5. Brave
-6. Ungoogled Chromium
-7. Atom
-8. Min
-9. Mozilla Firefox
-10. Mercury
-11. Floorp
+1. Thorium AVX2
+2. Edge
+3. Яндекс Браузер
+4. Google Chrome
+5. Яндекс Браузер для геймеров
+6. Brave
+7. Ungoogled Chromium
+8. Atom
+9. Min
+10. Mozilla Firefox
+11. Mercury
+12. Floorp
 
 ## Версии браузеров на момент тестирования
 | Браузер | Версия |
