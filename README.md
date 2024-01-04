@@ -51,60 +51,60 @@
 ### Основные браузеры
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| Google Chrome | 220 | 1878 | **282** | 1852 | 1058 |
-| Mozilla Firefox | 147 | 1033 | 255 | 1491 | 731 |
-| Edge | 220 | 1807 | 270 | 2043 | 1085 |
+| [Google Chrome](https://www.google.com/chrome/) | 220 | 1878 | **282** | 1852 | 1058 |
+| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) | 147 | 1033 | 255 | 1491 | 731 |
+| [Edge](https://www.microsoft.com/en-us/edge) | 220 | 1807 | 270 | 2043 | 1085 |
 
 ### Форки Chromium(Blink)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| 360 Extreme Explorer |  |  |  |  |  |
-| Atom | 189 | 1409 | 223 | 1630 | 862 |
-| Arc |  |  |  |  |  |
-| Brave | 221 | 1295 | 270 | 1983 | 942 |
-| Cent |  |  |  |  |  |
-| Maxthon |  |  |  |  |  |
-| Min | 207 | 1493 | 206 | 1493 | 849 |
-| Opera |  |  |  |  |  |
-| Opera GX |  |  |  |  |  |
+| [360 Extreme Explorer](https://www.comss.ru/page.php?id=2416) |  |  |  |  |  |
+| [Atom](https://browser.ru/) | 189 | 1409 | 223 | 1630 | 862 |
+| [Arc](https://arc.net/) |  |  |  |  |  |
+| [Brave](https://brave.com/) | 221 | 1295 | 270 | 1983 | 942 |
+| [Cent](https://www.centbrowser.com/) |  |  |  |  |  |
+| [Maxthon](https://www.maxthon.com/en/) |  |  |  |  |  |
+| [Min](https://minbrowser.org/) | 207 | 1493 | 206 | 1493 | 849 |
+| [Opera](https://www.opera.com/) |  |  |  |  |  |
+| [Opera GX](https://www.opera.com/gx) |  |  |  |  |  |
 | [Thorium AVX2](https://github.com/Alex313031/Thorium-Win-AVX2) | **226** | **2079** | 273 | 2049 | **1156** |
-| Ungoogled Chromium | 210 | 1379 | 198 | 1760 | 886 |
-| Vivaldi |  |  |  |  |  |
-| Яндекс Браузер | 210 | 1744 | 275 | **2056** | 1071 |
-| Яндекс Браузер для геймеров | 186 | 1656 | 267 | 2050 | 1039 |
-| Яндекс Браузер для организаций |  |  |  |  |  |
+| [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 210 | 1379 | 198 | 1760 | 886 |
+| [Vivaldi](https://vivaldi.com/) |  |  |  |  |  |
+| [Яндекс Браузер](https://browser.yandex.ru/) | 210 | 1744 | 275 | **2056** | 1071 |
+| [Яндекс Браузер для геймеров](https://www.comss.ru/page.php?id=9481) | 186 | 1656 | 267 | 2050 | 1039 |
+| [Яндекс Браузер для организаций](https://www.comss.ru/page.php?id=3799) |  |  |  |  |  |
 
 ### Форки Quantum(Gecko)
 | Браузер | JetStream 2.1 | MotionMark 1.2 | Speedometer 2.1 | Basemark Web 3.0 | Среднее |
 |          ---: |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
-| Floorp | 131 | 860 | 215 | 1465 | 667 |
-| K-Meleon |  |  |  |  |  |
-| Mercury | 130 | 891 | 215 | 1447 | 670 |
-| Tor |  |  |  |  |  |
+| [Floorp](https://floorp.app/) | 131 | 860 | 215 | 1465 | 667 |
+| [K-Meleon](http://kmeleonbrowser.org/) |  |  |  |  |  |
+| [Mercury](https://github.com/Alex313031/Mercury) | 130 | 891 | 215 | 1447 | 670 |
+| [Tor](https://www.torproject.org/) |  |  |  |  |  |
 
 ### Топ браузеров по среднему значению
-1. Thorium AVX2
-2. Edge
-3. Яндекс Браузер
-4. Google Chrome
-5. Яндекс Браузер для геймеров
-6. Brave
-7. Ungoogled Chromium
-8. Atom
-9. Min
-10. Mozilla Firefox
-11. Mercury
-12. Floorp
+1. [Thorium AVX2](https://github.com/Alex313031/Thorium-Win-AVX2)
+2. [Edge](https://www.microsoft.com/en-us/edge)
+3. [Яндекс Браузер](https://browser.yandex.ru/)
+4. [Google Chrome](https://www.google.com/chrome/)
+5. [Яндекс Браузер для геймеров](https://www.comss.ru/page.php?id=9481)
+6. [Brave](https://brave.com/)
+7. [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+8. [Atom](https://browser.ru/)
+9. [Min](https://minbrowser.org/)
+10. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+11. [Mercury](https://github.com/Alex313031/Mercury)
+12. [Floorp](https://floorp.app/)
 
 ## Версии браузеров на момент тестирования
 | Браузер | Версия |
 |          ---: | :---          |
-| Atom | 26.0.0.21 (Official Build) (64-bit) |
-| Google Chrome | 120.0.6099.130 (Официальная сборка), (64 бит) |
-| Mozilla Firefox | 121.0 (64-bit) |
-| Thorium AVX2 | 117.0.5938.157 (Official Build) (64-bit) |
-| Ungoogled Chromium | 120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit) |
-| Яндекс Браузер | 23.11.2.771 (64-bit) |
+| [Atom](https://browser.ru/) | 26.0.0.21 (Official Build) (64-bit) |
+| [Google Chrome](https://www.google.com/chrome/) | 120.0.6099.130 (Официальная сборка), (64 бит) |
+| [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) | 121.0 (64-bit) |
+| [Thorium AVX2](https://github.com/Alex313031/Thorium-Win-AVX2) | 117.0.5938.157 (Official Build) (64-bit) |
+| [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit) |
+| [Яндекс Браузер](https://browser.yandex.ru/) | 23.11.2.771 (64-bit) |
 
 
 ## Клейминги компаний
