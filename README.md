@@ -106,7 +106,3 @@
 | [Thorium AVX2](https://github.com/Alex313031/Thorium-Win-AVX2) | 117.0.5938.157 (Official Build) (64-bit) |
 | [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit) |
 | [Яндекс Браузер](https://browser.yandex.ru/) | 23.11.2.771 (64-bit) |
-
-- Atom на 23% медленнее работает с графикой, чем Яндекс.Браузер, на 33% медленнее, чем Google Chrome, и на 27% быстрее, чем Mozilla Firefox, по результатам MotionMark 1.2.
-- Atom на 11% менее производительный, чем Яндекс.Браузер, на 16% менее
-производительнее, чем Google Chrome, и на 23% более производительный, чем Mozilla Firefox, по результатам JetStream 2.1.
