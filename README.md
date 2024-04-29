@@ -22,7 +22,6 @@
 - Приватное окно (Инкогнито)
 - Вкладки и другие браузеры закрыты
 - Браузер установлен на SSD накопитель
-- Разблокированы P0 состояния видеокарты Nvidia(см [пункт 12. Отключаем P2 состояние видеокарты](https://vk.com/@xtcorp-optimizaciya-chistoi-vindy-20-k-proizvoditelnosti))
 - Видеокарта работает на максимальных частотах во время всего тестирования в состоянии P0
 
 ## На чем тестировалось?
@@ -107,22 +106,6 @@
 | [Thorium AVX2](https://github.com/Alex313031/Thorium-Win-AVX2) | 117.0.5938.157 (Official Build) (64-bit) |
 | [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit) |
 | [Яндекс Браузер](https://browser.yandex.ru/) | 23.11.2.771 (64-bit) |
-
-
-## Клейминги компаний
-### Mail.ru - Atom
-Дорогие Mail.ru, Команда Atom, VK и VK Testers, на [главной странице браузера Atom](https://browser.ru/) указана информация о производительности(JetStream) и работе с графикой(MotionMark 1.2) по результатам [исследования компанией VK в апреле 2022 года](https://browser.ru/benchmark/atom.pdf)
-
-![Atom VK benchmark results](https://github.com/xtcorp/browser-benchmark-results/blob/main/images/Atom_VK_benchmark_results.png)
-
-На сегодняшний день(22 декабря 2023 года) ваша информация не является актуальной. Результаты тестирования за сегодняшнее число:
-
-| Браузер | Производительность(JetStream 2.1) | Работа с графикой(MotionMark 1.2) |
-|          ---: |     :---:      |     :---:      |
-| Atom | 100% | 100% |
-| Google Chrome | 116% | 133% |
-| Mozilla Firefox | 77% | 73% |
-| Яндекс Браузер | 111% | 123% |
 
 - Atom на 23% медленнее работает с графикой, чем Яндекс.Браузер, на 33% медленнее, чем Google Chrome, и на 27% быстрее, чем Mozilla Firefox, по результатам MotionMark 1.2.
 - Atom на 11% менее производительный, чем Яндекс.Браузер, на 16% менее
